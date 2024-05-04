@@ -1,0 +1,33 @@
+Cluster & Component,Mean Estimate,Lower CI,Upper CI
+Cluster 2 30% off,0.047,-0.403,0.392
+Cluster 3 30% off,-0.016,-0.222,0.215
+Cluster 4 30% off,0.332,0.162,0.552
+Cluster 5 30% off,0.249,-0.076,0.600
+Cluster 2 40% off,-0.256,-0.557,0.075
+Cluster 3 40% off,-0.040,-0.225,0.144
+Cluster 4 40% off,0.148,-0.005,0.287
+Cluster 5 40% off,0.003,-0.318,0.351
+Cluster 2 50% off,-0.426,-0.957,0.108
+Cluster 3 50% off,-0.123,-0.407,0.184
+Cluster 4 50% off,-0.058,-0.334,0.245
+Cluster 5 50% off,0.179,-0.388,0.731
+Cluster 2 Product,-0.383,-0.904,0.111
+Cluster 3 Product,0.004,-0.240,0.299
+Cluster 4 Product,0.030,-0.194,0.264
+Cluster 5 Product,0.003,-0.533,0.500
+Cluster 2 Clearance,-0.284,-0.872,0.227
+Cluster 3 Clearance,-0.062,-0.334,0.234
+Cluster 4 Clearance,0.101,-0.107,0.391
+Cluster 5 Clearance,-0.206,-0.643,0.219
+Cluster 2 Mystery,-0.182,-0.658,0.239
+Cluster 3 Mystery,0.103,-0.210,0.374
+Cluster 4 Mystery,0.214,-0.011,0.440
+Cluster 5 Mystery,0.068,-0.280,0.439
+Cluster 2 Free Gift,-0.229,-0.626,0.141
+Cluster 3 Free Gift,0.033,-0.177,0.262
+Cluster 4 Free Gift,0.231,0.021,0.428
+Cluster 5 Free Gift,0.142,-0.180,0.486
+Cluster 2 Free Shipping,-0.348,-0.836,0.094
+Cluster 3 Free Shipping,-0.087,-0.353,0.175
+Cluster 4 Free Shipping,0.151,-0.101,0.374
+Cluster 5 Free Shipping,0.120,-0.296,0.544
