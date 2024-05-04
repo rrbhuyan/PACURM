@@ -8,7 +8,7 @@ Folders with their descriptions
 -----------------------------------------------------
 Below are six folders, each accompanied by a brief description of its contents:
 1. Code: R codes to clean data, perform PACURM and reproduce tables and figures in the paper.
-2. Data: Raw data, as well as the cleaned data produced by our R code. 
+2. Data: Raw data, as well as the cleaned data produced by our R code. [Download here](https://drive.google.com/drive/folders/1FKlCpdNyR-2kiUkdIi46UXeBwiwMKOKr?usp=drive_link)
 3. Functions: R files with functions required for CURM Stage I and Stage II.
 4. Output: Intermediary .RDS (R data format) files required for reproducing results.
 5. Plots: All the plots in the paper.
