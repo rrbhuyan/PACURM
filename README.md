@@ -1,4 +1,4 @@
-# digital_coupons
+# PACURM
 
 Codes for PACURM R package. 
 Reproduces the results in the paper _A Scalable Path Algorithm for Clusterwise Messaging Component Analysis in Digital Communications_
